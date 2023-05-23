@@ -53,7 +53,7 @@
                     <img src="img/produtos/nescau-foto-removebg-preview.png" alt="Foto Nescau">
                     <h3>Nescau</h3>
                     <p class="preco">De: <s>R$ 5,00</s></p>
-                    <p>Por: R$ 4,00</p>
+                    <p>Por: R$ 6,00</p>
                 </div>
             </section>
             <aside>
@@ -70,16 +70,8 @@
             </aside>
         </main>
         
-<<<<<<< HEAD
     </body>
 
     <script src="js/index.js"></script>
 
     </php>
-=======
-</body>
-
-<script src="js/index.js"></script>
-
-</php>
->>>>>>> 8640788ac5ffa803b74ebbe975ba695fe47f2412
