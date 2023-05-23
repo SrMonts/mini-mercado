@@ -122,11 +122,7 @@
 </php>
 
 </body>
-<<<<<<< HEAD
+
 <script src="js/index.js"></script>
-=======
 
-<script src="./js/index.js"></script>
-
->>>>>>> 8640788ac5ffa803b74ebbe975ba695fe47f2412
 </php>

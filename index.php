@@ -33,6 +33,11 @@
                 <a class="button" href = "cadastro.php" lang="en">Cadastre-se</a>
               <a class="button" href = "login.php" lang="en">Login</a>
             </nav>
+
+            <button id="botao-alterar-tema">
+                <img width="30px" src="./img/sun.png"  alt="sol imagem" class="imagem-botao">
+            </button>
+
         </header>
         
         <main>
@@ -74,7 +79,7 @@
 =======
 </body>
 
-<script src="./js/index.js"></script>
+<script src="js/index.js"></script>
 
 </php>
 >>>>>>> 8640788ac5ffa803b74ebbe975ba695fe47f2412

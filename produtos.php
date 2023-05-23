@@ -34,9 +34,11 @@
           <a class="button" href = "cadastro.php" lang="en">Cadastre-se</a>
         <a class="button" href = "login.php" lang="en">Login</a>
         </nav>
+
         <button id="botao-alterar-tema">
                 <img width="30px" src="./img/sun.png"  alt="sol imagem" class="imagem-botao">
             </button>
+            
     </header>
 
         <h1>Produtos para Supermercado</h1>
