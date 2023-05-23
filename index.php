@@ -18,12 +18,13 @@
     <link rel="stylesheet" href="css/components/header.css">
     <link rel="stylesheet" href="css/components/action.css">
     <link rel="stylesheet" href="css/components/button.css">
+    <link rel="stylesheet" href="css/components/scrollbar.css">
 
 
     </head>
     <body>
         <header class="header">
-            <img class="logo" src="/img/Logotipo Loja Online Básico.png" width="60px" alt="Logo da marca">
+            <img class="logo" src="img/Logotipo Loja Online Básico.png" width="60px" alt="Logo da marca">
             <nav>
                 <a class="action" href = "index.php">Início</a>
                 <a class="action" href = "produtos.php">Produtos</a>
@@ -65,4 +66,7 @@
         </main>
         
     </body>
+
+    <script src="js/index.js"></script>
+
     </php>
