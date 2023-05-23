@@ -65,8 +65,16 @@
             </aside>
         </main>
         
+<<<<<<< HEAD
     </body>
 
     <script src="js/index.js"></script>
 
     </php>
+=======
+</body>
+
+<script src="./js/index.js"></script>
+
+</php>
+>>>>>>> 8640788ac5ffa803b74ebbe975ba695fe47f2412
